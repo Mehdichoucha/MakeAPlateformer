@@ -15,8 +15,8 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.6 (60006
 
 - Mode d'emploi pour démarrer le projet:
 
-  - 1. Installer Unity Hub et Unity 6.6 (60006.10f1)
-  - 2. Cloner le dépôt : git clone https://github.com/Mehdichoucha/MakeAPlateformer.git
+  - 1 Installer Unity Hub et Unity 6.6 (60006.10f1)
+  - 2 Cloner le dépôt : git clone https://github.com/Mehdichoucha/MakeAPlateformer.git
   3- Ouvrir le dossier du projet dans Unity Hub
   4- Ouvrir la scène Assets/Scenes/[NomScene].unity et appuyer sur Play
 
