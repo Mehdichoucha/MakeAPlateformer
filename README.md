@@ -22,8 +22,8 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en lan
 
 - Contrôles
 
-  - |---Touche---|---Action---|
-  
+|Touche|Action|
+|------||------|  
   - Q / A, D > Aller à gauche, à droite
   - Espace > Sauter
   - S	S'accroupir
