@@ -1,26 +1,26 @@
 # MakeAPlateformer
 
-- Composition de notre groupe:
+# - Composition de notre groupe:
   - Mehdi Choucha
   - Eltigani Abdallah
   - Joël Traina-Metogo Messina
   - Laurent Cassar
  
-- Titre du jeu:
+# - Titre du jeu:
   Time Ganging Up (Le Temps se Ligue Contre Nous)
 
-- Courte description de notre projet:
+# - Courte description de notre projet:
 
 Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en langage C# à partir du GDD Time Ganging Up. Des individus d'une époque du passé (Cowboy, Ninja, Pugiliste, Chevalier) sont retenues prisonniers par une organisation de super méchants venue du futur pour les étudier et doivent s'échapper. Le joueur a la possibilité d'alterner entre les quatre personnages différents, chacun ayant des capacités spécifiques, pour traverser le niveau, détruire des obstacles et vaincre les robots ennemis.
 
-- Mode d'emploi pour démarrer le projet:
+# - Mode d'emploi pour démarrer le projet:
 
   - 1 - Installer Unity Hub et Unity 6.3
   - 2 - Cloner le dépôt : git clone https://github.com/Mehdichoucha/MakeAPlateformer.git
   - 3 - Ouvrir le dossier du projet dans Unity Hub
   - 4 - Ouvrir la scène Assets/Scenes/[NomScene].unity et appuyer sur Play
 
-- Contrôles
+# - Contrôles
 
 |Touche|Action|
 |------|------|  
