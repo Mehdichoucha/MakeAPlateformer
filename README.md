@@ -21,7 +21,7 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en lan
   - 4 - Ouvrir la scène Assets/Scenes/[NomScene].unity et appuyer sur Play
 
 ## Contrôles
-## Commandes générales :
+### Commandes générales :
 Touche|Action
 -|-
 Q, A / D|Aller à gauche / Aller à droite
@@ -32,13 +32,13 @@ Z / W|Interagir / entrer dans un passage
 Clic gauche|Attaque principale
 Clic droit|Action spéciale (viser / s'accrocher / esquiver / parer)
 Souris|Direction de l'action à Précision du Personnage
-## Commandes du Cowboy :
+### Commandes du Cowboy :
 Touche|Action
 -|-
 Clic Gauche|Tirer
 Maintenir Bouton Souris Droit|Viser
 Mouvements Souris|Direction du Tir
-## Commandes du Ninja :
+### Commandes du Ninja :
 Touche|Action
 -|-
 Bouton Souris Gauche|Attaque
