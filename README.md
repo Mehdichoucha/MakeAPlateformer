@@ -1,6 +1,6 @@
 # MakeAPlateformer
 
-# - Composition de notre groupe:
+## - Composition de notre groupe:
   - Mehdi Choucha
   - Eltigani Abdallah
   - Joël Traina-Metogo Messina
