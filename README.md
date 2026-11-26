@@ -22,15 +22,34 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en lan
 
 ## Contrôles
 
-|Touche|Action
-|-|-
-|Q / A, D|Aller à gauche, à droite
-|Espace|Sauter
-|S|S'accroupir
-|Z / W|Interagir / entrer dans un passage
-|1 / 2 / 3 / 4|Cowboy / Ninja / Pugiliste / Chevalier
-|Clic gauche|Attaque principale
-|Clic droit|Action spéciale (viser / s'accrocher / esquiver / parer)
-|Souris|Direction de l'action
-|R|Recharger (Cowboy)
-
+Touche|Action
+-|-
+Commandes générales :
+Q, A / D|Aller à gauche / Aller à droite
+Espace|Sauter
+S|S'accroupir
+Z / W|Interagir / entrer dans un passage
+1 / 2 / 3 / 4|Changement de personnage : Cowboy / Ninja / Pugiliste / Chevalier
+Clic gauche|Attaque principale
+Clic droit|Action spéciale (viser / s'accrocher / esquiver / parer)
+Souris|Direction de l'action à Précision du Personnage
+Commandes du Cowboy :
+Clic Gauche|Tirer
+Maintenir Bouton Souris Droit|Viser
+Mouvements Souris|Direction du Tir
+Commandes du Ninja :
+Bouton Souris Gauche|Attaque
+S + Bouton Souris Gauche|Attaque Furtive
+Bouton Souris Droit|S’accrocher aux Rebords/Parois
+Mouvements Souris|Direction de l’Attaque
+Commandes du Pugiliste :
+Bouton Souris Gauche|Attaquer
+Maintenir Bouton Souris Gauche|Attaque Puissante
+Bouton Souris Droit|Esquive / Pas en Arrière
+Bouton Souris Droit -> Bouton Souris Gauche|Contre-Attaque
+Bouton Souris Droit -> Maintenir Bouton Souris Gauche|Contre-Attaque Puissante
+Mouvements Souris|Direction de l’Attaque
+Commandes du Chevalier :
+Bouton Souris Gauche|Attaquer
+Maintenir Bouton Souris Droit|Parer au Bouclier
+Mouvements Souris|Direction du Bouclier
