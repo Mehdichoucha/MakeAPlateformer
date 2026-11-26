@@ -21,10 +21,9 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en lan
   - 4 - Ouvrir la scène Assets/Scenes/[NomScene].unity et appuyer sur Play
 
 ## Contrôles
-
+## Commandes générales :
 Touche|Action
 -|-
-Commandes générales :
 Q, A / D|Aller à gauche / Aller à droite
 Espace|Sauter
 S|S'accroupir
@@ -33,23 +32,31 @@ Z / W|Interagir / entrer dans un passage
 Clic gauche|Attaque principale
 Clic droit|Action spéciale (viser / s'accrocher / esquiver / parer)
 Souris|Direction de l'action à Précision du Personnage
-Commandes du Cowboy :
+## Commandes du Cowboy :
+Touche|Action
+-|-
 Clic Gauche|Tirer
 Maintenir Bouton Souris Droit|Viser
 Mouvements Souris|Direction du Tir
-Commandes du Ninja :
+## Commandes du Ninja :
+Touche|Action
+-|-
 Bouton Souris Gauche|Attaque
 S + Bouton Souris Gauche|Attaque Furtive
 Bouton Souris Droit|S’accrocher aux Rebords/Parois
 Mouvements Souris|Direction de l’Attaque
-Commandes du Pugiliste :
+### Commandes du Pugiliste :
+Touche|Action
+-|-
 Bouton Souris Gauche|Attaquer
 Maintenir Bouton Souris Gauche|Attaque Puissante
 Bouton Souris Droit|Esquive / Pas en Arrière
 Bouton Souris Droit -> Bouton Souris Gauche|Contre-Attaque
 Bouton Souris Droit -> Maintenir Bouton Souris Gauche|Contre-Attaque Puissante
 Mouvements Souris|Direction de l’Attaque
-Commandes du Chevalier :
+### Commandes du Chevalier :
+Touche|Action
+-|-
 Bouton Souris Gauche|Attaquer
 Maintenir Bouton Souris Droit|Parer au Bouclier
 Mouvements Souris|Direction du Bouclier
