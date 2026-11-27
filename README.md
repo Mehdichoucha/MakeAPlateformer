@@ -22,13 +22,14 @@ Il s'agit d'un Prototype de jeu de plateforme 2D réalisé sous Unity 6.3 en lan
 
 ## Contrôles
 ### Commandes générales :
+
 Touche|Action
 -|-
 Q, A / D|Aller à gauche / Aller à droite
 Espace|Sauter
 S|S'accroupir
 Z / W|Interagir / entrer dans un passage
-1 / 2 / 3 / 4|Changement de personnage : Cowboy / Ninja / Pugiliste / Chevalier
+<br>1 / 2 / 3 / 4|Changement de personnage :<br> Cowboy / Ninja / Pugiliste / Chevalier
 Clic gauche|Attaque principale
 Clic droit|Action spéciale (viser / s'accrocher / esquiver / parer)
 Souris|Direction de l'action à Précision du Personnage
